@@ -1,16 +1,47 @@
-### Hi there 👋
+## Samir Zahran [he/him]
 
-<!--
-**samiare/samiare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an Associate Technical Director with a background in graphic design currently working at [Instrument][instrument]’s New York office (formerly [This Also][thisalso]).
 
-Here are some ideas to get you started:
+I like to explore the interplay between code and art, and am interested in fun and playful ways to interact with computers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Side Projects
+
+- [Daily Generative Art][genart]
+- [cURL Art][curlart]
+- [Pixels Drawings][pixelart]
+
+#### Writing
+
+- [Fixing HTML Video on Mobile][medium-ww]
+- [Designing for Television, Part 3][medium-cjs]
+
+#### Clients
+
+- Nike
+- Tumblr
+- Spotify
+- Xbox
+- Google Creative Lab
+- American Express
+- HBO GO
+
+#### Online
+
+[Personal Site][samiare]
+
+[Twitter][twitter] • [Instagram][instagram] • [LinkedIn][linkedin]
+
+
+<!-- link defs -->
+
+[instrument]: https://instrument.com/
+[thisalso]: http://thisalso.com/
+[genart]: https://samiare.net/daily
+[curlart]: https://samiare.net/curlart
+[pixelart]: https://samiare.net/pixels
+[medium-ww]: https://medium.com/this-also/whitewater-9b47f1e32ffe
+[medium-cjs]: https://medium.com/this-also/designing-for-television-part-3-46b7eaf8d0f2
+[twitter]: https://twitter.com/samiare
+[instagram]: https://instagram.com/samiare
+[linkedin]: https://linkedin.com/in/samiare
+[samiare]: https://samiare.net
