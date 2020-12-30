@@ -15,16 +15,6 @@ I like to explore the interplay between code and art, and am interested in fun a
 - [Fixing HTML Video on Mobile][medium-ww]
 - [Designing for Television, Part 3][medium-cjs]
 
-#### Clients
-
-- Nike
-- Tumblr
-- Spotify
-- Xbox
-- Google Creative Lab
-- American Express
-- HBO GO
-
 #### Online
 
 [Personal Site][samiare]
