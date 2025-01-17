@@ -32,7 +32,7 @@ I make computer go beep boop and show pretty colors.
 [instrument]: https://instrument.com/
 [linkedin]: https://linkedin.com/in/samiare
 [writing-cjs]: https://samiare.net/writing/designing-for-television-part-3
-[writing-ww]: https://medium.com/this-also/fixing-html-video-on-mobile
+[writing-ww]: https://samiare.net/this-also/fixing-html-video-on-mobile
 [pixelart]: https://samiare.net/pixels
 [samiare]: https://samiare.net
 [thisalso]: http://thisalso.com/
