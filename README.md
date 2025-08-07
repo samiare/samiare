@@ -7,7 +7,6 @@ I make computer go beep boop and show pretty colors.
 #### Side Projects
 
 - [Daily Generative Art][genart]
-- [cURL Art][curlart]
 - [Pixels Drawings][pixelart]
 
 #### Writing
